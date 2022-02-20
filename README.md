@@ -1,5 +1,5 @@
 # OLED_controller
- Write compile and run psudo instructions to draw with pmodOLED
+ Write compile and run pseudo instructions to draw with pmodOLED
 
 
 # Components:
